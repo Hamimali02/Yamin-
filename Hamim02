@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+    <head>
+       <title>hamim ali</title>
+    </head>
+    <body>
+        <form>
+            
+            Regestion
+            <br><br>
+            <input type="text"placeholder="user name">
+            <br><br>
+            <input type="password"placeholder="password">
+            <br>
+            <br><br>
+           <h5>select your class</h5> 
+            <br>
+            <lable for="20">
+                <input type="radio"value="class 9"name="class">class 9
+            </lable>
+            
+
+            <br>
+            <lable for="30">
+                 <input type="radio"value="class 10"name="class">class 10
+            </lable>
+            <br><br>
+           <h5>select your city</h5> 
+            <br>
+            <select name="city">
+                 <br>
+                <option value="dhaka">dhaka</option>
+                <option value="rajsha">rajsha</option>
+                <option value="comila">comila</option>
+                <option value="sylite">sylite</option>
+            </select>
+                
+                <h5>select your fav subject</h5>  
+                <lable for="60"> <br>
+                    
+                    <input type="checkbox"value="math"name="subject"id="02">math
+                </lable>
+                <br>
+                <lable for="70">
+                    <input type="checkbox"value="phy"name="subject"id="02">phy
+                </lable>
+                <br>
+                   <label for="80">
+                    <input type="checkbox"value="Cs"name="subject"id="02">cs
+                   </label>
+                </select>
+           
+                   <br><br><br>
+                 <textarea name="feedback"id="80"placwholder="plecs give me your feedback here">feedback</textarea>
+        
+
+           
+
+              
+
+
+
+        </form>
+
+
+
+
+
+    </body>
+
+
+
+
+
+
+
+</html>
+
