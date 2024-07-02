@@ -6,7 +6,7 @@
     <body>
         <form>
             
-            Regestion
+            Registration 
             <br><br>
             <input type="text"placeholder="user name">
             <br><br>
